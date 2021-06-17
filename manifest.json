@@ -1,0 +1,36 @@
+{
+    "name": "Movizzz",
+    "short_name": "Movizzz",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "rgb(76, 11, 197)",
+    "theme_color": "rgb(76, 11, 197)",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "assets/icons/icon-192x192.png",
+            "type": "image/x-icon",
+            "sizes": "192x192"
+        },
+        {
+            "src": "assets/icons/icon-256x256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "assets/icons/icon-384x384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+   
+        
+    
+   
+
+}
